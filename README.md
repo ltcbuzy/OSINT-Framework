@@ -4,7 +4,7 @@ A lot of open source intelligence (OSINT) resources are gathered and maintained 
 
 
 # Contents
-General Search
+General Search:
 Meta Search
 Visual and Clustering Search Engines
 National Search Engines
